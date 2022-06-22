@@ -1,0 +1,9 @@
+Part 1: Conceptual
+    Monday, June 20: 30 minutes
+
+Part 2: Timeword.js
+    Tuesday, June 21: 65 minutes to create, 15 minutes to test and add comments
+
+Part 3: Buggy App
+    Tuesday, June 21: 20 minutes getting familiar with the codebase and finding Bug #1
+    Wednesday, June 22: 70 minutes finding Bugs #2-6 and fixing Bugs #1-6
